@@ -1,6 +1,6 @@
 # get-ae-labels
 
-Example function to retrieve After Effects label colors and names from preferences. See [index.js].
+Example function to retrieve After Effects label colors and names from preferences. See [index.js](index.js).
 
 > All credit for this goes to [Justin Taylor](https://github.com/justintaylor-dev) from [HyperBrew](https://github.com/hyperbrew) who posted the original code in [this thread on the Adobe support forum](https://community.adobe.com/t5/after-effects-discussions/reading-the-label-colors-from-preferences-file/m-p/12135463)
 
